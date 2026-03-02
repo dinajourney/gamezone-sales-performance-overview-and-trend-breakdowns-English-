@@ -40,10 +40,15 @@ Total revenue from 2019 to 2021 reached approximately **$6.1M**. However, the da
 Overall, the company experienced significant growth from **2019 to 2020**:
 
 - **Revenue increased by 164% YoY**
+
   ![yoy revenue preview](images/YoY_revenue.png)
+  
 - **Orders increased by 102% YoY**
+
   ![yoy order preview](images/YoY_order.png)
+  
 - **Average Order Value (AOV) increased by 30% YoY**
+
   ![yoy aov preview](images/YoY_AOV.png)
 
 This growth suggests a strong surge in demand during 2020, potentially influenced by changes in consumer behavior during the pandemic period.
