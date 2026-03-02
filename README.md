@@ -25,6 +25,9 @@ Insights and recommendations are provided in the following areas:
 ---
 
 # Executive Summary
+# Gamezone Sales Analysis Dashboard
+
+![Dashboard Preview](images/dashboard.png)
 
 ## Overview of Findings
 
