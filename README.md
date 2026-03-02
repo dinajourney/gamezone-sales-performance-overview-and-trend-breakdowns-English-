@@ -15,7 +15,8 @@ Insights and recommendations are provided in the following areas:
 3. **Customer Behavior** – Identification of high-season periods based on purchasing patterns  
 4. **Regional Analysis** – Analysis of sales performance by country to identify top contributing markets  
 
-The Excel Analysis File [View file] (https://github.com/dinajourney/gamezone-sales-performance-overview-and-trend-breakdowns-English-/blob/main/gamezone-orders-data_CLeaned.xlsx)
+The Excel Analysis File [View file](https://github.com/dinajourney/gamezone-sales-performance-overview-and-trend-breakdowns-English-/blob/main/gamezone-orders-data_CLeaned.xlsx)
+
 ---
 
 # Executive Summary
