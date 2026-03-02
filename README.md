@@ -19,7 +19,9 @@ Insights and recommendations are provided in the following areas:
 
 **The Excel Analysis File** [View file](https://github.com/dinajourney/gamezone-sales-performance-overview-and-trend-breakdowns-English-/blob/main/gamezone-orders-data_CLeaned.xlsx)
 
-**Raw Dataset**
+**Raw Dataset** [View file](https://github.com/dinajourney/gamezone-sales-performance-overview-and-trend-breakdowns-English-/blob/main/gamezone-orders-data.xlsx)
+
+
 ---
 
 # Executive Summary
